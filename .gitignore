@@ -2,3 +2,6 @@ dist/
 node_modules/
 token.json   # Google OAuth token
 .env
+
+# macOS
+.DS_Store
